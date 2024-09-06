@@ -14,3 +14,21 @@ body {
   width: 100%;
   background-color: antiquewhite;
 }
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(55, 43, 28);
+}
+#page2 img {
+  height: 100%;
+  width: 20%;
+  object-fit: cover;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(162, 139, 136);
+}
