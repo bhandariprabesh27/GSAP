@@ -25,8 +25,8 @@ gsap.from("#page3 #circle", {
     trigger: "#page3 #circle",
     scroller: "body",
     markers: true,
-    start: "top 60%",
-    end: "top 30%",
+    start: "top 90%",
+    end: "top 50%",
     scrub: 2, //value of scrub must be either boolean(true/false) or (1-5)
   },
 });
